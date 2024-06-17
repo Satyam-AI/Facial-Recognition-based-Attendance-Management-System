@@ -11,7 +11,7 @@ import time
 import tkinter.font as font
 import pyttsx3
 
-# project module
+# project modules
 import show_attendance
 import takeImage
 import trainImage
